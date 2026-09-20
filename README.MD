@@ -35,3 +35,7 @@ waste-classifier-flask/
 ├── waste_classifier.keras
 ├── README.md
 └── .gitignore
+
+## Project Presentation
+
+[Download Project Presentation](./AI-Based%20Waste%20Segregation%20and%20Disposal%20Guide.pptx)
